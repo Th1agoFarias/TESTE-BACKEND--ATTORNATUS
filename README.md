@@ -43,4 +43,14 @@
 </tr>
 </table>
 
+<h3>Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+</h3>
+
+Considero importante em uma funcinalidade de software a confiabilidade, a estrutura do código para possíveis manuntenções e usabilidade mais claras possíveis para o usuários.
+
+<h3>Em qual etapa da implementação você considera a qualidade de software?
+</h3>
+A funcinalidade do código e testes.
+
+
 
